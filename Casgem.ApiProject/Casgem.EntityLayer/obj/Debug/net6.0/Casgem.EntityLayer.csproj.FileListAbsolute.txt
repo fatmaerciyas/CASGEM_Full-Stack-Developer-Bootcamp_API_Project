@@ -1,0 +1,14 @@
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.EntityLayer\bin\Debug\net6.0\Casgem.EntityLayer.deps.json
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.EntityLayer\bin\Debug\net6.0\Casgem.EntityLayer.runtimeconfig.json
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.EntityLayer\bin\Debug\net6.0\Casgem.EntityLayer.dll
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.EntityLayer\bin\Debug\net6.0\Casgem.EntityLayer.pdb
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.EntityLayer\obj\Debug\net6.0\Casgem.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.EntityLayer\obj\Debug\net6.0\Casgem.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.EntityLayer\obj\Debug\net6.0\Casgem.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.EntityLayer\obj\Debug\net6.0\Casgem.EntityLayer.AssemblyInfo.cs
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.EntityLayer\obj\Debug\net6.0\Casgem.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.EntityLayer\obj\Debug\net6.0\Casgem.EntityLayer.dll
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.EntityLayer\obj\Debug\net6.0\refint\Casgem.EntityLayer.dll
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.EntityLayer\obj\Debug\net6.0\Casgem.EntityLayer.pdb
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.EntityLayer\obj\Debug\net6.0\Casgem.EntityLayer.genruntimeconfig.cache
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.EntityLayer\obj\Debug\net6.0\ref\Casgem.EntityLayer.dll

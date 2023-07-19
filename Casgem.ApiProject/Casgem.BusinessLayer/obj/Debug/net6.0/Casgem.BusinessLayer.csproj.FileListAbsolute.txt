@@ -1,0 +1,17 @@
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.BusinessLayer\bin\Debug\net6.0\Casgem.BusinessLayer.deps.json
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.BusinessLayer\bin\Debug\net6.0\Casgem.BusinessLayer.dll
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.BusinessLayer\bin\Debug\net6.0\Casgem.BusinessLayer.pdb
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.BusinessLayer\obj\Debug\net6.0\Casgem.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.BusinessLayer\obj\Debug\net6.0\Casgem.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.BusinessLayer\obj\Debug\net6.0\Casgem.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.BusinessLayer\obj\Debug\net6.0\Casgem.BusinessLayer.AssemblyInfo.cs
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.BusinessLayer\obj\Debug\net6.0\Casgem.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.BusinessLayer\obj\Debug\net6.0\Casgem.BusinessLayer.dll
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.BusinessLayer\obj\Debug\net6.0\refint\Casgem.BusinessLayer.dll
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.BusinessLayer\obj\Debug\net6.0\Casgem.BusinessLayer.pdb
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.BusinessLayer\obj\Debug\net6.0\ref\Casgem.BusinessLayer.dll
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.BusinessLayer\bin\Debug\net6.0\Casgem.DataAccsessLayer.dll
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.BusinessLayer\bin\Debug\net6.0\Casgem.EntityLayer.dll
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.BusinessLayer\bin\Debug\net6.0\Casgem.DataAccsessLayer.pdb
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.BusinessLayer\bin\Debug\net6.0\Casgem.EntityLayer.pdb
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.BusinessLayer\obj\Debug\net6.0\Casgem.BusinessLayer.csproj.CopyComplete

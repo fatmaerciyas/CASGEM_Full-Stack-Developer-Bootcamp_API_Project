@@ -1,0 +1,15 @@
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.DataAccsessLayer\bin\Debug\net6.0\Casgem.DataAccsessLayer.deps.json
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.DataAccsessLayer\bin\Debug\net6.0\Casgem.DataAccsessLayer.dll
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.DataAccsessLayer\bin\Debug\net6.0\Casgem.DataAccsessLayer.pdb
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.DataAccsessLayer\bin\Debug\net6.0\Casgem.EntityLayer.dll
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.DataAccsessLayer\bin\Debug\net6.0\Casgem.EntityLayer.pdb
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.DataAccsessLayer\obj\Debug\net6.0\Casgem.DataAccsessLayer.csproj.AssemblyReference.cache
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.DataAccsessLayer\obj\Debug\net6.0\Casgem.DataAccsessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.DataAccsessLayer\obj\Debug\net6.0\Casgem.DataAccsessLayer.AssemblyInfoInputs.cache
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.DataAccsessLayer\obj\Debug\net6.0\Casgem.DataAccsessLayer.AssemblyInfo.cs
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.DataAccsessLayer\obj\Debug\net6.0\Casgem.DataAccsessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.DataAccsessLayer\obj\Debug\net6.0\Casgem.DataAccsessLayer.csproj.CopyComplete
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.DataAccsessLayer\obj\Debug\net6.0\Casgem.DataAccsessLayer.dll
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.DataAccsessLayer\obj\Debug\net6.0\refint\Casgem.DataAccsessLayer.dll
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.DataAccsessLayer\obj\Debug\net6.0\Casgem.DataAccsessLayer.pdb
+C:\Users\fatma\source\repos\Casgem.ApiProject\Casgem.DataAccsessLayer\obj\Debug\net6.0\ref\Casgem.DataAccsessLayer.dll
